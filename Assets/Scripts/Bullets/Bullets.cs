@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour
+public abstract class Bullets : MonoBehaviour
 {
-    private bool _timeRun;
+    protected bool TimeRun;
     private TimeShift _timeShift;
     private Coroutine _coroutine;
-    [SerializeField] private float _speed;
+    [SerializeField] protected float Speed;
 
     public void Init(TimeShift timeShift)
     {
@@ -17,12 +17,12 @@ public class Bullet : MonoBehaviour
 
     private void OnDisable()
     {
-        
+        _timeShift.TimeIsMove -= OnTimeShift;
     }
 
     private void OnTimeShift(bool timeRun)
     {
-        _timeRun = timeRun;
+        TimeRun = timeRun;
         if (timeRun)
         {
             _coroutine = StartCoroutine(Fly());
@@ -34,13 +34,5 @@ public class Bullet : MonoBehaviour
         }
     }
 
-    private IEnumerator Fly()
-    {
-        while (_timeRun)
-        {
-            gameObject.transform.position += transform.forward * _speed * Time.deltaTime;
-            yield return new WaitForEndOfFrame();
-        }
-    }
-
+    protected abstract IEnumerator Fly();
 }

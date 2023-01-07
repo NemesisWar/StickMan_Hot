@@ -10,6 +10,7 @@ public class TimeShift : MonoBehaviour
 
     private void OnEnable()
     {
+        Cursor.visible = false;
         _playerMove.IsMove += FlowTime;
     }
 
