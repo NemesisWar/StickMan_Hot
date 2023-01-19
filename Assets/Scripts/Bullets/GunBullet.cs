@@ -8,7 +8,12 @@ public class GunBullet : Bullets
     {
         while (TimeRun)
         {
+            LifeTime+=Time.deltaTime;
             gameObject.transform.position += transform.forward * Speed * Time.deltaTime;
+            if (LifeTime >= MaxLifeTime) 
+            { 
+                Destroy(gameObject);
+            }
             yield return new WaitForEndOfFrame();
         }
     }

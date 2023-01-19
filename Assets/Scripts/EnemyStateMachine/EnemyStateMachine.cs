@@ -4,21 +4,25 @@ using UnityEngine;
 
 public class EnemyStateMachine : MonoBehaviour
 {
-    private Player _player;
     private Enemy _enemy;
     private State _currentState;
+    [SerializeField] private State _startState;
 
     private void Start()
     {
         _enemy = GetComponent<Enemy>();
-        _player = _enemy.GetComponent<Player>();
+        if (_enemy != null)
+        {
+            Debug.Log("Enemy is not null");
+            Reset(_startState);
+        }
     }
 
     private void Reset(State startstate)
     {
         _currentState = startstate;
         if (_currentState != null)
-            _currentState.Enter(_player);
+            _currentState.Enter(_enemy);
     }
 
     private void Transit(State nextState)
@@ -29,7 +33,7 @@ public class EnemyStateMachine : MonoBehaviour
         }
 
         _currentState = nextState;
-        _currentState.Enter(_player);
+        _currentState.Enter(_enemy);
     }
 
     private void Update()
@@ -40,7 +44,7 @@ public class EnemyStateMachine : MonoBehaviour
         }
 
         State nextState = _currentState.GetNextState();
-        if (_currentState != null)
+        if (nextState != null)
         {
             Transit(nextState);
         }

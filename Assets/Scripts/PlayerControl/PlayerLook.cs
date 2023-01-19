@@ -10,6 +10,7 @@ public class PlayerLook : PlayerControl
 
     protected override void Start()
     {
+
     }
 
     private Vector2 OnRotate()

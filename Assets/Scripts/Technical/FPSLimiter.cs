@@ -6,7 +6,7 @@ public class FPSLimiter : MonoBehaviour
 {
     [SerializeField] private int _limitFRS;
     [SerializeField] private int _vSincValue;
-    private void Awake()
+    private void OnEnable()
     {
         Application.targetFrameRate = _limitFRS;
         QualitySettings.vSyncCount = _vSincValue;

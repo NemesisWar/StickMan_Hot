@@ -4,30 +4,37 @@ using UnityEngine;
 using UnityEngine.AI;
 
 [RequireComponent(typeof(NavMeshAgent))]
-[ RequireComponent(typeof(Animator))]
+[RequireComponent(typeof(Animator))]
 public abstract class State : MonoBehaviour
 {
-    private Animator _animator;
-    private NavMeshAgent _agent;
+    protected Animator Animator;
+    protected NavMeshAgent Agent;
     [SerializeField] private List<Transictions> _transictions;
     protected Player Player;
-    private Enemy _enemy;
+    protected Enemy Enemy;
     private Coroutine _coroutine;
     protected bool RunTime;
 
     private void Awake()
     {
-        _enemy = GetComponent<Enemy>();
+        Animator = GetComponent<Animator>();
+        Agent = GetComponent<NavMeshAgent>();
     }
 
     private void OnEnable()
     {
-        _enemy.CanMove += OnCanMove;
+        Enemy.CanMove += OnCanMove;
     }
 
     private void OnDisable()
     {
-        _enemy.CanMove -= OnCanMove;
+        Enemy.CanMove -= OnCanMove;
+        if (_coroutine != null)
+        {
+            StopCoroutine(_coroutine);
+            _coroutine = null;
+            AfterStopCoroutine();
+        }
     }
 
     private void OnCanMove(bool runTime)
@@ -39,22 +46,29 @@ public abstract class State : MonoBehaviour
         }
         else
         {
-            StopCoroutine(_coroutine);
-            _coroutine = null;
+            if(_coroutine != null)
+            {
+                StopCoroutine(_coroutine);
+                _coroutine = null;
+                AfterStopCoroutine();
+            }
         }
     }
 
+    protected abstract void AfterStopCoroutine();
+
     protected abstract IEnumerator Action(bool RunTime);
 
-    public void Enter(Player player)
+    public void Enter(Enemy enemy)
     {
         if(enabled == false)
         {
-            Player = player;
+            Enemy = enemy;
+            Player = Enemy.Player;
             enabled = true;
             foreach(var transiction in _transictions)
             {
-                transiction.Init(Player);
+                transiction.Init(Enemy);
                 transiction.enabled = true;
             }
         }
