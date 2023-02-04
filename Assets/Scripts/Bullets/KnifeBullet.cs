@@ -4,8 +4,15 @@ using UnityEngine;
 
 public class KnifeBullet : Bullets
 {
+    [SerializeField] private BulletRotateAround _bulletRotateAround;
+
     protected override IEnumerator Fly()
     {
-        throw new System.NotImplementedException();
+        while (TimeRun)
+        {
+            gameObject.transform.position += transform.forward * Speed * Time.deltaTime;
+            _bulletRotateAround.RotateArr();
+            yield return new WaitForEndOfFrame();
+        }
     }
 }

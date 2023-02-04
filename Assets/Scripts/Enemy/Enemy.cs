@@ -8,12 +8,12 @@ public class Enemy : MonoBehaviour
     public TimeShift TimeShift => _timeShift;
     public Player Player => _player;
     private Player _player;
-    [SerializeField] private TimeShift _timeShift;
+    private TimeShift _timeShift;
+    [SerializeField] private Item _dropedWeapon;
     public event UnityAction<bool> CanMove;
 
     public void Init(TimeShift timeShift)
     {
-        Debug.Log("Init");
         _timeShift = timeShift;
         _player = timeShift.Player;
     }
@@ -25,7 +25,6 @@ public class Enemy : MonoBehaviour
 
     private void OnEnable()
     {
-        Debug.Log("OnEnable");
         _timeShift.TimeIsMove +=cxt=>CanMove?.Invoke(cxt);
     }
 
@@ -36,6 +35,11 @@ public class Enemy : MonoBehaviour
 
     public void TakeDamage()
     {
+        if (_dropedWeapon != null)
+        {
+            Item item = Instantiate(_dropedWeapon,transform.position,Quaternion.identity);
+            item.Init(_timeShift);
+        }
         Destroy(gameObject);
     }
 }

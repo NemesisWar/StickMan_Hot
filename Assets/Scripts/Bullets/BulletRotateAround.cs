@@ -5,8 +5,9 @@ using DG.Tweening;
 
 public class BulletRotateAround : MonoBehaviour
 {
+    [SerializeField] private float _xRotateSpeed;
     public void RotateArr()
     {
-        transform.DOLocalRotate(new Vector3(5, 0, 0), Time.deltaTime, RotateMode.LocalAxisAdd);
+        transform.DOLocalRotate(new Vector3(_xRotateSpeed, 0, 0), Time.deltaTime, RotateMode.LocalAxisAdd);
     }
 }

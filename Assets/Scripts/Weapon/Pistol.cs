@@ -29,4 +29,9 @@ public class Pistol : Weapon
             TryDrop();
         }
     }
+
+    public void AddBullets(int count)
+    {
+        _bullets = count;
+    }
 }

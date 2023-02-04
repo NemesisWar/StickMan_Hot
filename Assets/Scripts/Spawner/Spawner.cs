@@ -32,8 +32,6 @@ public class Spawner : MonoBehaviour
             point.gameObject.SetActive(false);
             _spawnPoints.Remove(point);
         }
-
-        Debug.Log("EndSpawn");
     }
 
     private Enemy GetRandomEnemy()

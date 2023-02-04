@@ -13,7 +13,6 @@ public class EnemyStateMachine : MonoBehaviour
         _enemy = GetComponent<Enemy>();
         if (_enemy != null)
         {
-            Debug.Log("Enemy is not null");
             Reset(_startState);
         }
     }

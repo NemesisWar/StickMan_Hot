@@ -7,7 +7,7 @@ public class VisibleContact : MonoBehaviour
 {
     public bool PlayerVisible { get; private set; }
     [SerializeField] private Enemy _enemy;
-    [SerializeField] private Player _player;
+    private Player _player;
     private Coroutine _coroutine;
     [SerializeField] private float _rayDistance;
     [SerializeField] private GameObject _locator;
@@ -20,7 +20,6 @@ public class VisibleContact : MonoBehaviour
 
     private void OnEnable()
     {
-        Debug.Log("enableVC");
         _enemy.CanMove += OnCanMove;
     }
 

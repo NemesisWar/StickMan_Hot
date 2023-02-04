@@ -10,9 +10,13 @@ public class AttackState : State
     private float _time;
     protected override IEnumerator Action(bool RunTime)
     {
+        Animator.SetBool("Walk", false);
+        Animator.SetBool("ReadyToShoot", true);
+        Animator.speed = 1;
         while (RunTime)
         {
             _time+=Time.deltaTime;
+            transform.LookAt(Player.transform.position);
             if (_time >= _delay)
             {
                 _time=0;
@@ -27,6 +31,6 @@ public class AttackState : State
 
     protected override void AfterStopCoroutine()
     {
-        Debug.Log("Spot");
+        Animator.speed = 0;
     }
 }

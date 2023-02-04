@@ -29,7 +29,7 @@ public class PlayerLook : PlayerControl
         transform.localEulerAngles = _rotation;
     }
 
-    private void Update()
+    private void LateUpdate()
     {
         _playerInput.Player.Rotate.performed += ctx => OnRotate();
         Rotate(OnRotate());
