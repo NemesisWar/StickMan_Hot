@@ -51,7 +51,7 @@ public abstract class Bullets : MonoBehaviour
     {
         if (collision.gameObject.TryGetComponent(out Player player))
         {
-            Debug.Log("Player_Dead");
+            player.TakeDamage();
             Destroy(gameObject);
         }
 

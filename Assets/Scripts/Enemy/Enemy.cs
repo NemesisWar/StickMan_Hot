@@ -5,6 +5,7 @@ using UnityEngine.Events;
 
 public class Enemy : MonoBehaviour
 {
+    public event UnityAction<Enemy> Die;
     public TimeShift TimeShift => _timeShift;
     public Player Player => _player;
     private Player _player;
@@ -40,6 +41,7 @@ public class Enemy : MonoBehaviour
             Item item = Instantiate(_dropedWeapon,transform.position,Quaternion.identity);
             item.Init(_timeShift);
         }
+        Die?.Invoke(this);
         Destroy(gameObject);
     }
 }

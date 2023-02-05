@@ -1,17 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Spawner : MonoBehaviour
 {
+    public event UnityAction SpawnFinished;
     [SerializeField] private List<Enemy> _enemyTemplate;
     [SerializeField] private int _spawnCount;
     [SerializeField] private TimeShift _timeshift;
     [SerializeField] private GameObject _container;
     private List<SpawnPoints> _spawnPoints = new List<SpawnPoints>();
-    private List<Enemy> _spawnedEnemies;
-
-
 
 
     private void Start()
@@ -32,6 +31,7 @@ public class Spawner : MonoBehaviour
             point.gameObject.SetActive(false);
             _spawnPoints.Remove(point);
         }
+        SpawnFinished?.Invoke();
     }
 
     private Enemy GetRandomEnemy()

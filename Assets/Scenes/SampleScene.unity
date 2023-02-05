@@ -749,13 +749,14 @@ GameObject:
   - component: {fileID: 804938570}
   - component: {fileID: 804938572}
   - component: {fileID: 804938571}
+  - component: {fileID: 804938573}
   m_Layer: 5
   m_Name: EndGameBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &804938570
 RectTransform:
   m_ObjectHideFlags: 0
@@ -816,6 +817,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 804938569}
   m_CullTransparentMesh: 1
+--- !u!114 &804938573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 804938569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a557ef015c20014fac1446477802059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WinPanel: {fileID: 465213889}
+  LoosePanel: {fileID: 1799638371}
+  _gameVisior: {fileID: 1049101284}
 --- !u!1 &861811250
 GameObject:
   m_ObjectHideFlags: 0
@@ -825,6 +841,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 861811251}
+  - component: {fileID: 861811252}
   m_Layer: 0
   m_Name: Container
   m_TagString: Untagged
@@ -847,6 +864,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &861811252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861811250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ddf22c01284f6f4eb49da45e2464ffe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _gameVisior: {fileID: 1049101284}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1084,6 +1114,7 @@ GameObject:
   - component: {fileID: 1049101282}
   - component: {fileID: 1049101281}
   - component: {fileID: 1049101283}
+  - component: {fileID: 1049101284}
   m_Layer: 0
   m_Name: TimeShift
   m_TagString: Untagged
@@ -1131,8 +1162,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82b80d931e9b59647ab0420c1c7cc244, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _limitFRS: 60
+  _limitFRS: 90
   _vSincValue: 0
+--- !u!114 &1049101284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1049101280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3395571444524e47a831e2187a47d1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _player: {fileID: 351873709}
+  _enemyContainer: {fileID: 861811250}
+  _enemyCount: 0
 --- !u!1001 &1152635151
 PrefabInstance:
   m_ObjectHideFlags: 0
