@@ -27,7 +27,7 @@ public class Item : MonoBehaviour
         _rigibody = GetComponent<Rigidbody>();
         _timeShift = timeShift;
         _timeShift.TimeIsMove += TimeRun;
-        _rigibody.AddForce(new Vector3(1, 1, 0), ForceMode.Impulse);
+        _rigibody.AddForce(new Vector3(1, 5, 0), ForceMode.Impulse);
         if (IsMelle != false)
         {
             ButtelCounts = Random.Range(1, 3);

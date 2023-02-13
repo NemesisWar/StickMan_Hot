@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+[RequireComponent(typeof(AudioSource))]
 public class PlayerMove : PlayerControl
 {
+    private AudioSource _audioSource;
     public event UnityAction<bool> IsMove;
     private Vector3 _moveDirection;
     [SerializeField] private float _defaultSpeed;
@@ -12,6 +14,7 @@ public class PlayerMove : PlayerControl
 
     protected override void Start()
     {
+        _audioSource = GetComponent<AudioSource>();
         _playerInput.Player.Move.started += cxt => StartMove();
         _playerInput.Player.Move.canceled += cxt => StopMove();
     }
@@ -49,11 +52,13 @@ public class PlayerMove : PlayerControl
 
     private void StopMove()
     {
+        _audioSource.Stop();
         IsMove?.Invoke(false);
     }
 
     private void StartMove()
     {
+        _audioSource.Play();
         IsMove?.Invoke(true);
     }
 

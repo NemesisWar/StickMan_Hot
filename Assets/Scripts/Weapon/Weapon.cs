@@ -5,10 +5,12 @@ using UnityEngine.Events;
 
 public abstract class Weapon : MonoBehaviour
 {
+    public AudioClip TakeAudioClip => _takeAudioClip;
     public event UnityAction dropedWeapon;
     [SerializeField] protected TimeShift Timeshift;
     [SerializeField] protected Transform DropPoint;
     [SerializeField] private Bullets _dropItem;
+    [SerializeField] private AudioClip _takeAudioClip;
 
     public abstract void TryShoot();
 

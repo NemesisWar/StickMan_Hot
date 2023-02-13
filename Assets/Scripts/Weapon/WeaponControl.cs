@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 
+[RequireComponent(typeof(AudioSource))]
 public class WeaponControl : MonoBehaviour
 {
     [SerializeField] private Animator _animator;
@@ -12,9 +13,11 @@ public class WeaponControl : MonoBehaviour
     private PlayerShoot _playerShoot;
     private List<Weapon> _weapons = new List<Weapon>();
     private Coroutine _coroutine;
+    private AudioSource _audioSource;
 
     private void Awake()
     {
+        _audioSource = GetComponent<AudioSource>();
         _playerShoot = GetComponentInParent<PlayerShoot>();
         _weapons.AddRange(GetComponentsInChildren<Weapon>());
         DisableAllWeapons(_weapons);
@@ -101,6 +104,7 @@ public class WeaponControl : MonoBehaviour
 
     private void ItemTaked(Weapon weapon, Item item)
     {
+        _audioSource.PlayOneShot(weapon.TakeAudioClip);
         if(item.IsMelle == false)
         {
             if(weapon is Pistol)

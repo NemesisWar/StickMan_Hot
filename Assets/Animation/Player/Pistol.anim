@@ -19,7 +19,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 5.68, y: -90, z: 0}
+        value: {x: 28.19, y: -45.594, z: 55.886}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -27,8 +27,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 1.5
-        value: {x: 7.183, y: -90, z: 0}
+        time: 2.5
+        value: {x: 28.19, y: -45.594, z: 60.195}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -36,8 +36,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 5.68, y: -90, z: 0}
+        time: 5
+        value: {x: 28.19, y: -45.594, z: 55.886}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -47,13 +47,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -16.116, y: -66.396, z: -6.452}
+        value: {x: -2.115, y: 3.362, z: 73.231}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -61,8 +61,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: -16.116, y: -66.396, z: -6.452}
+        time: 5
+        value: {x: -2.115, y: 3.362, z: 73.231}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -72,13 +72,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 17.875, y: -0.947, z: -123.651}
+        value: {x: 10.379, y: -62.824, z: -10.468}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -86,8 +86,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 17.875, y: -0.947, z: -123.651}
+        time: 5
+        value: {x: 10.379, y: -62.824, z: -10.468}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -97,13 +97,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -9.618, y: -1.48, z: -13.912}
+        value: {x: 7.502, y: -5.265, z: -0.513}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -111,8 +111,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: -9.618, y: -1.48, z: -13.912}
+        time: 5
+        value: {x: 7.502, y: -5.265, z: -0.513}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -122,13 +122,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 24.191, y: 125.281, z: 113.572}
+        value: {x: 1.407, y: 0.187, z: -38.759}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -136,8 +136,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 24.191, y: 125.281, z: 113.572}
+        time: 5
+        value: {x: 1.407, y: 0.187, z: -38.759}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -147,13 +147,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 34.691, y: -44.917, z: 8.74}
+        value: {x: 1.286, y: -0.796, z: -33.098}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -161,8 +161,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 34.691, y: -44.917, z: 8.74}
+        time: 5
+        value: {x: 1.286, y: -0.796, z: -33.098}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -172,13 +172,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -1.294, y: -180.444, z: 127.055}
+        value: {x: -8.252, y: 13.984, z: -51.134}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -186,8 +186,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: -1.294, y: -180.444, z: 127.055}
+        time: 5
+        value: {x: -8.252, y: 13.984, z: -51.134}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -197,13 +197,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.001, y: 0.017, z: 22.695}
+        value: {x: -2.22, y: -0.68, z: -79.821}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -211,8 +211,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: -0.001, y: 0.017, z: 22.695}
+        time: 5
+        value: {x: -2.22, y: -0.68, z: -79.821}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -222,13 +222,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: -0.017, z: 28.922}
+        value: {x: -0.411, y: 4.439, z: -49.277}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -236,8 +236,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: -0.017, z: 28.922}
+        time: 5
+        value: {x: -0.411, y: 4.439, z: -49.277}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -247,13 +247,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: -9.469, z: 5.557}
+        value: {x: -11.26, y: 24.019, z: -53.114}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -261,8 +261,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: -9.469, z: 5.557}
+        time: 5
+        value: {x: -11.26, y: 24.019, z: -53.114}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -272,13 +272,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: -0.004, z: 31.536}
+        value: {x: 1.299, y: 1.084, z: -56.127}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -286,8 +286,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: -0.004, z: 31.536}
+        time: 5
+        value: {x: 1.299, y: 1.084, z: -56.127}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -297,13 +297,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0.004, z: 98.903}
+        value: {x: 0.376, y: -3.877, z: -40.409}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -311,8 +311,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: 0.004, z: 98.903}
+        time: 5
+        value: {x: 0.376, y: -3.877, z: -40.409}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -322,13 +322,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: -2.024, z: 54.743}
+        value: {x: -8.122, y: 15.384, z: -51.569}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -336,8 +336,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: -2.024, z: 54.743}
+        time: 5
+        value: {x: -8.122, y: 15.384, z: -51.569}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -347,13 +347,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0.001, z: 53.832}
+        value: {x: 0.678, y: 1.555, z: -80.857}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -361,8 +361,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: 0.001, z: 53.832}
+        time: 5
+        value: {x: 0.678, y: 1.555, z: -80.857}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -372,13 +372,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 65.504}
+        value: {x: 0.315, y: -2.993, z: -31.606}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -386,8 +386,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: 0, z: 65.504}
+        time: 5
+        value: {x: 0.315, y: -2.993, z: -31.606}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -397,13 +397,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.597, y: -2.262, z: 86.694}
+        value: {x: 48.866, y: -155.978, z: -114.986}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -411,8 +411,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: -0.597, y: -2.262, z: 86.694}
+        time: 5
+        value: {x: 48.866, y: -155.978, z: -114.986}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -422,13 +422,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 63.856}
+        value: {x: -1, y: -9.913, z: -20.507}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -436,8 +436,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: 0, z: 63.856}
+        time: 5
+        value: {x: -1, y: -9.913, z: -20.507}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -447,13 +447,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 10.596, z: 85.377}
+        value: {x: 2.461, y: 0.05, z: -27.124}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -461,8 +461,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: 10.596, z: 85.377}
+        time: 5
+        value: {x: 2.461, y: 0.05, z: -27.124}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -472,13 +472,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 33.708}
+        value: {x: -67.28, y: 48.095, z: -40.613}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -486,8 +486,17 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0, y: 0, z: 33.708}
+        time: 2.5
+        value: {x: -65.293, y: 53.383, z: -47.112}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 5
+        value: {x: -67.28, y: 48.095, z: -40.613}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -497,14 +506,14 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
   m_PositionCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.0625, y: 0.0478, z: 0.1659}
+        value: {x: 0.0543, y: -0.0057, z: 0.171}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -512,8 +521,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3
-        value: {x: 0.0625, y: 0.0478, z: 0.1659}
+        time: 5
+        value: {x: 0.0543, y: -0.0057, z: 0.171}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -523,7 +532,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -535,140 +544,140 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 555032591
+      path: 3661480732
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 567315680
+      path: 394735938
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 552049257
       attribute: 1
       script: {fileID: 0}
       typeID: 4
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1932924461
+      path: 3600262810
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 4029970982
+      path: 552049257
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2582759467
+      path: 1012441045
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2718400616
+      path: 369168337
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 567315680
+      path: 3505788734
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1881292818
+      path: 4092481046
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3779467131
+      path: 3911698516
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2543801276
+      path: 380475732
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1527714769
+      path: 2300701710
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 943499584
+      path: 1349419043
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 432521685
+      path: 3473305051
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1108615824
+      path: 910048170
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3325705878
+      path: 621854028
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1676693490
+      path: 2980783551
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 223720535
+      path: 3164713512
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 1371067255
+      path: 123891772
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 340690198
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2948482209
+      path: 1846773410
       attribute: 4
       script: {fileID: 0}
       typeID: 4
@@ -680,7 +689,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 3
+    m_StopTime: 5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -701,7 +710,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 5.68
+        value: 28.19
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -709,8 +718,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.5
-        value: 7.183
+        time: 2.5
+        value: 28.19
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -718,110 +727,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 5.68
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -90
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.5
-        value: -90
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: -90
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.5
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -16.116
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: -16.116
+        time: 5
+        value: 28.19
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -832,7 +739,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -840,7 +747,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -66.396
+        value: -45.594
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -848,8 +755,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -66.396
+        time: 2.5
+        value: -45.594
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -45.594
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -860,7 +776,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -868,7 +784,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -6.452
+        value: 55.886
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -876,8 +792,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -6.452
+        time: 2.5
+        value: 60.195
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: 55.886
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -888,7 +813,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -896,7 +821,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 17.875
+        value: -2.115
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -904,8 +829,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 17.875
+        time: 5
+        value: -2.115
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -916,7 +841,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -924,7 +849,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.947
+        value: 3.362
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -932,8 +857,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -0.947
+        time: 5
+        value: 3.362
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -944,7 +869,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -952,7 +877,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -123.651
+        value: 73.231
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -960,8 +885,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -123.651
+        time: 5
+        value: 73.231
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -972,7 +897,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -980,7 +905,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -9.618
+        value: 0.0543
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -988,260 +913,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -9.618
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -1.48
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: -1.48
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -13.912
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: -13.912
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 24.191
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 24.191
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 125.281
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 125.281
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 113.572
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 113.572
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 34.691
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 34.691
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -44.917
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: -44.917
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 8.74
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 8.74
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.0625
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3
-        value: 0.0625
+        time: 5
+        value: 0.0543
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1252,7 +925,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1260,7 +933,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.0478
+        value: -0.0057
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1268,8 +941,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0.0478
+        time: 5
+        value: -0.0057
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1280,7 +953,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1288,7 +961,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.1659
+        value: 0.171
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1296,8 +969,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0.1659
+        time: 5
+        value: 0.171
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1308,7 +981,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1316,7 +989,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -1.294
+        value: 10.379
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1324,8 +997,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -1.294
+        time: 5
+        value: 10.379
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1336,7 +1009,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1344,7 +1017,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -180.444
+        value: -62.824
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1352,8 +1025,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -180.444
+        time: 5
+        value: -62.824
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1364,7 +1037,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1372,7 +1045,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 127.055
+        value: -10.468
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1380,8 +1053,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 127.055
+        time: 5
+        value: -10.468
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1392,7 +1065,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1400,7 +1073,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.001
+        value: 7.502
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1408,8 +1081,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -0.001
+        time: 5
+        value: 7.502
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1420,7 +1093,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1428,7 +1101,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.017
+        value: -5.265
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1436,8 +1109,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0.017
+        time: 5
+        value: -5.265
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1448,7 +1121,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1456,7 +1129,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 22.695
+        value: -0.513
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1464,8 +1137,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 22.695
+        time: 5
+        value: -0.513
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1476,7 +1149,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1484,7 +1157,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1.407
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1492,8 +1165,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 1.407
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1504,7 +1177,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1512,7 +1185,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.017
+        value: 0.187
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1520,8 +1193,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -0.017
+        time: 5
+        value: 0.187
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1532,7 +1205,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1540,7 +1213,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 28.922
+        value: -38.759
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1548,8 +1221,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 28.922
+        time: 5
+        value: -38.759
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1560,7 +1233,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1568,7 +1241,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1.286
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1576,8 +1249,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 1.286
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1588,7 +1261,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1596,7 +1269,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -9.469
+        value: -0.796
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1604,8 +1277,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -9.469
+        time: 5
+        value: -0.796
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1616,7 +1289,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1624,7 +1297,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 5.557
+        value: -33.098
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1632,8 +1305,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 5.557
+        time: 5
+        value: -33.098
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1644,7 +1317,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1652,7 +1325,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: -8.252
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1660,8 +1333,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: -8.252
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1672,7 +1345,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1680,7 +1353,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.004
+        value: 13.984
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1688,8 +1361,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -0.004
+        time: 5
+        value: 13.984
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1700,7 +1373,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1708,7 +1381,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 31.536
+        value: -51.134
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1716,8 +1389,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 31.536
+        time: 5
+        value: -51.134
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1728,7 +1401,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1736,7 +1409,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: -2.22
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1744,8 +1417,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: -2.22
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1756,7 +1429,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1764,7 +1437,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.004
+        value: -0.68
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1772,8 +1445,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0.004
+        time: 5
+        value: -0.68
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1784,7 +1457,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1792,7 +1465,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 98.903
+        value: -79.821
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1800,8 +1473,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 98.903
+        time: 5
+        value: -79.821
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1812,7 +1485,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1820,7 +1493,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: -0.411
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1828,8 +1501,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: -0.411
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1840,7 +1513,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1848,7 +1521,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -2.024
+        value: 4.439
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1856,8 +1529,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -2.024
+        time: 5
+        value: 4.439
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1868,7 +1541,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1876,7 +1549,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 54.743
+        value: -49.277
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1884,8 +1557,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 54.743
+        time: 5
+        value: -49.277
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1896,7 +1569,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1904,7 +1577,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: -11.26
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1912,8 +1585,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: -11.26
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1924,7 +1597,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1932,7 +1605,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.001
+        value: 24.019
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1940,8 +1613,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0.001
+        time: 5
+        value: 24.019
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1952,7 +1625,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1960,7 +1633,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 53.832
+        value: -53.114
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1968,8 +1641,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 53.832
+        time: 5
+        value: -53.114
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1980,7 +1653,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -1988,7 +1661,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1.299
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1996,8 +1669,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 1.299
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2008,7 +1681,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2016,7 +1689,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 1.084
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2024,8 +1697,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 1.084
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2036,7 +1709,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2044,7 +1717,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 65.504
+        value: -56.127
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2052,8 +1725,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 65.504
+        time: 5
+        value: -56.127
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2064,7 +1737,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2072,7 +1745,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.597
+        value: 0.376
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2080,8 +1753,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -0.597
+        time: 5
+        value: 0.376
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2092,7 +1765,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2100,7 +1773,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -2.262
+        value: -3.877
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2108,8 +1781,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: -2.262
+        time: 5
+        value: -3.877
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2120,7 +1793,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2128,7 +1801,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 86.694
+        value: -40.409
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2136,8 +1809,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 86.694
+        time: 5
+        value: -40.409
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2148,7 +1821,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2156,7 +1829,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: -8.122
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2164,8 +1837,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: -8.122
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2176,7 +1849,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2184,7 +1857,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 15.384
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2192,8 +1865,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 15.384
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2204,7 +1877,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2212,7 +1885,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 63.856
+        value: -51.569
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2220,8 +1893,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 63.856
+        time: 5
+        value: -51.569
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2232,7 +1905,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2240,7 +1913,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 0.678
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2248,8 +1921,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 0.678
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2260,7 +1933,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2268,7 +1941,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 10.596
+        value: 1.555
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2276,8 +1949,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 10.596
+        time: 5
+        value: 1.555
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2288,7 +1961,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2296,7 +1969,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 85.377
+        value: -80.857
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2304,8 +1977,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 85.377
+        time: 5
+        value: -80.857
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2316,7 +1989,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2324,7 +1997,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: 0.315
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2332,8 +2005,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: 0.315
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2344,7 +2017,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2352,7 +2025,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0
+        value: -2.993
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2360,8 +2033,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 0
+        time: 5
+        value: -2.993
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2372,7 +2045,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2380,7 +2053,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 33.708
+        value: -31.606
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2388,8 +2061,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3
-        value: 33.708
+        time: 5
+        value: -31.606
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2400,7 +2073,370 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 48.866
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: 48.866
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -155.978
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -155.978
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -114.986
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -114.986
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -9.913
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -9.913
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -20.507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -20.507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.461
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: 2.461
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: 0.05
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -27.124
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -27.124
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -67.28
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.5
+        value: -65.293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -67.28
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 48.095
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.5
+        value: 53.383
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: 48.095
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -40.613
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 2.5
+        value: -47.112
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 5
+        value: -40.613
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -2411,7 +2447,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2421,7 +2457,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2431,7 +2467,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41/Character001RArmDigit42
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2441,7 +2477,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2451,7 +2487,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2461,7 +2497,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2471,7 +2507,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2481,7 +2517,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2491,7 +2527,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Weapons/PistolWeapon
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2501,7 +2537,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2511,7 +2547,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2521,7 +2557,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2531,7 +2567,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2541,7 +2577,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2551,7 +2587,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2561,7 +2597,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2571,7 +2607,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2581,7 +2617,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit51/Character001RArmDigit52
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2591,7 +2627,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2601,7 +2637,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2611,7 +2647,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2621,7 +2657,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2631,7 +2667,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2641,7 +2677,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2651,7 +2687,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2661,7 +2697,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2671,7 +2707,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/Weapons/PistolWeapon
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2681,7 +2717,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2691,7 +2727,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2701,7 +2737,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2711,7 +2747,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2721,7 +2757,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2731,7 +2767,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2741,7 +2777,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2751,7 +2787,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2761,7 +2797,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit11/Character001RArmDigit12/Character001RArmDigit13
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2771,7 +2807,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2781,7 +2817,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2791,7 +2827,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2801,7 +2837,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2811,7 +2847,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2821,7 +2857,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2831,7 +2867,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2841,7 +2877,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2851,7 +2887,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit21/Character001RArmDigit22/Character001RArmDigit23
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2861,7 +2897,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2871,7 +2907,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2881,7 +2917,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32/Character001RArmDigit33
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2891,7 +2927,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2901,7 +2937,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2911,7 +2947,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit31/Character001RArmDigit32
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2921,7 +2957,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2931,7 +2967,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2941,7 +2977,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone/Character001RArm1/Character001RArm21/Character001RArm22/Character001RArmPalm/Character001RArmDigit41
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2951,7 +2987,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Character001Hub001/Character001RArmCollarbone
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2961,7 +2997,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Character001Hub001/Character001RArmCollarbone
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -2971,7 +3007,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Character001Hub001/Character001RArmCollarbone
+    path: SK_FP_CH_Default_Root/Armature/root/pelvis/spine_01/spine_02/spine_03/clavicle_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0

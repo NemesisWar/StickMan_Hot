@@ -2,12 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class Pistol : Weapon
 {
     [SerializeField] private Transform _shootPoint;
     [SerializeField] private Bullets _bullet;
     [SerializeField] private int _maxBullets;
     [SerializeField] private int _bullets;
+    [SerializeField] private ParticleSystem _shootVFX;
+    [SerializeField] private AudioSource _audioSource;
+    [SerializeField] private AudioClip _audioClip;
 
     private void OnValidate()
     {
@@ -20,6 +24,8 @@ public class Pistol : Weapon
         if (_bullets > 0)
         {
             _bullets--;
+            _shootVFX.Play();
+            _audioSource.PlayOneShot(_audioClip);
             Bullets bullet = Instantiate(_bullet, _shootPoint.position, _shootPoint.transform.rotation);
             bullet.Init(Timeshift);
         }

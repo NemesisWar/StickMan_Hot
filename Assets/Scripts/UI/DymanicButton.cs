@@ -8,11 +8,6 @@ public class DymanicButton : MonoBehaviour
     [SerializeField] private Button _button;
     private bool _showed;
 
-    private void Start()
-    {
-
-    }
-
     public void ShowedButton()
     {
         _showed = true;

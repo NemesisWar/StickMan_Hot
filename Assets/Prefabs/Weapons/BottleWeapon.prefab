@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3868730826808555856}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -98,4 +98,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Timeshift: {fileID: 0}
   DropPoint: {fileID: 0}
-  _dropItem: {fileID: 0}
+  _dropItem: {fileID: 6713089443012649695, guid: 040638ae7ca48cc4f8cf311fbb6eb390,
+    type: 3}
+  _takeAudioClip: {fileID: 8300000, guid: afe80d867ef6b8c4fa45b07f1f99533c, type: 3}

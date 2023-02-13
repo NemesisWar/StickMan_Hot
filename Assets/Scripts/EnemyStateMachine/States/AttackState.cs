@@ -2,11 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class AttackState : State
 {
     [SerializeField] private float _delay;
     [SerializeField] private Bullets _bullet;
     [SerializeField] private Transform _shootpoint;
+    [SerializeField] private AudioClip _audioClip;
+    [SerializeField] private ParticleSystem _particleSystem;
     private float _time;
     protected override IEnumerator Action(bool RunTime)
     {
@@ -20,6 +23,8 @@ public class AttackState : State
             if (_time >= _delay)
             {
                 _time=0;
+                _particleSystem.Play();
+                AudioSource.PlayOneShot(_audioClip);
                 Bullets bullet = Instantiate(_bullet, _shootpoint.position,_shootpoint.rotation);
                 bullet.transform.LookAt(Player.transform.position);
                 bullet.Init(Enemy.TimeShift);

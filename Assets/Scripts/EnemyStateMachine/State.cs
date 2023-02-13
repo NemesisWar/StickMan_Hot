@@ -5,6 +5,7 @@ using UnityEngine.AI;
 
 [RequireComponent(typeof(NavMeshAgent))]
 [RequireComponent(typeof(Animator))]
+[RequireComponent(typeof(AudioSource))]
 public abstract class State : MonoBehaviour
 {
     protected Animator Animator;
@@ -14,11 +15,13 @@ public abstract class State : MonoBehaviour
     protected Enemy Enemy;
     private Coroutine _coroutine;
     protected bool RunTime;
+    protected AudioSource AudioSource;
 
     private void Awake()
     {
         Animator = GetComponent<Animator>();
         Agent = GetComponent<NavMeshAgent>();
+        AudioSource = GetComponent<AudioSource>();
     }
 
     private void OnEnable()
