@@ -1394,7 +1394,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: PistolEnemy
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 7925063030159947022, guid: 039ffa3e343e2954c8cc8c7daaecab01,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7925063030159947022, guid: 039ffa3e343e2954c8cc8c7daaecab01, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 039ffa3e343e2954c8cc8c7daaecab01, type: 3}
 --- !u!4 &3841804834771234117 stripped
 Transform:

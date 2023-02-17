@@ -8,7 +8,7 @@ public class ShootPoint : MonoBehaviour
 
     private void Update()
     {
-        if(_rayCamera. Target!=Vector3.zero)
+        if(_rayCamera.Target!=Vector3.zero)
         {
             transform.LookAt(_rayCamera.Target);
         }

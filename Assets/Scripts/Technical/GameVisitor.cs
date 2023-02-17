@@ -5,6 +5,7 @@ using UnityEngine.Events;
 
 public class GameVisitor : MonoBehaviour
 {
+    public event UnityAction<int> CountEnemies;
     public event UnityAction<bool> PlayerWin;
     [SerializeField] private Player _player;
     [SerializeField] private GameObject _enemyContainer;
@@ -24,20 +25,24 @@ public class GameVisitor : MonoBehaviour
     {
         enemy.Die += RemoveEmeny;
         _enemyCount++;
+        CountEnemies?.Invoke(_enemyCount);
     }
 
     private void RemoveEmeny(Enemy enemy)
     {
         enemy.Die -= RemoveEmeny;
         _enemyCount--;
+        CountEnemies?.Invoke(_enemyCount);
         if(_enemyCount == 0)
         {
             PlayerWin?.Invoke(true);
+            Cursor.visible = true;
         }
     } 
 
     private void OnPlayerDie()
     {
         PlayerWin?.Invoke(false);
+        Cursor.visible = true;
     }
 }
