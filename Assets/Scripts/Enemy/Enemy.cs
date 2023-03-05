@@ -11,6 +11,7 @@ public class Enemy : MonoBehaviour
     private Player _player;
     private TimeShift _timeShift;
     [SerializeField] private Item _dropedWeapon;
+    [SerializeField] private ParticleSystem _particleDie;
     public event UnityAction<bool> CanMove;
 
     public void Init(TimeShift timeShift)
@@ -38,10 +39,11 @@ public class Enemy : MonoBehaviour
     {
         if (_dropedWeapon != null)
         {
-            Item item = Instantiate(_dropedWeapon,transform.position,Quaternion.identity);
+            Item item = Instantiate(_dropedWeapon,transform.position+Vector3.up,Quaternion.identity);
             item.Init(_timeShift);
         }
         Die?.Invoke(this);
+        ParticleSystem par = Instantiate(_particleDie, transform.position, Quaternion.identity, null);
         Destroy(gameObject);
     }
 }

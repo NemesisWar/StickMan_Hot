@@ -23,6 +23,7 @@ public class WeaponControl : MonoBehaviour
         DisableAllWeapons(_weapons);
         if (_startWeapon != null)
         {
+            _animator.SetInteger("Weapon", GetWeaponIndex(_startWeapon));
             EnableWeapon(_startWeapon);
         }
     }

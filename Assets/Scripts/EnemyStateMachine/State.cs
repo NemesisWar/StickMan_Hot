@@ -27,6 +27,7 @@ public abstract class State : MonoBehaviour
     private void OnEnable()
     {
         Enemy.CanMove += OnCanMove;
+        OnCanMove(Enemy.TimeShift.TimeRun);
     }
 
     private void OnDisable()

@@ -887,10 +887,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.3
-  m_Height: 1.6
+  m_Radius: 0.45
+  m_Height: 2.4
   m_Direction: 1
-  m_Center: {x: 0, y: 0.8, z: 0}
+  m_Center: {x: 0, y: 1.2, z: 0}
 --- !u!195 &7764397958900713870
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -926,6 +926,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _dropedWeapon: {fileID: 6343514470757696993, guid: b11b11cdd23847f43b9a82e50f62f6f7,
+    type: 3}
+  _particleDie: {fileID: 7245942443733077591, guid: cb656495212e1f649a38f80fed30ff87,
     type: 3}
 --- !u!114 &4626583757937466139
 MonoBehaviour:

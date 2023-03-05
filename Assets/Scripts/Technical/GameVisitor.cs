@@ -13,6 +13,7 @@ public class GameVisitor : MonoBehaviour
 
     private void OnEnable()
     {
+        Cursor.visible = false;
         _player.Die += OnPlayerDie;
     }
 

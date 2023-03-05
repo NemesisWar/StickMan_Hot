@@ -7,7 +7,7 @@ public class MoveState : State
 { 
     protected override IEnumerator Action(bool RunTime)
     {
-        Agent.destination = Player.transform.position;
+        Agent.SetDestination(Player.transform.position);
         Animator.speed = 1;
         Agent.isStopped = false;
         Animator.SetBool("Walk", true);
