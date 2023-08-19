@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 3306406}
   - component: {fileID: 2397204}
   - component: {fileID: 6522546}
+  - component: {fileID: 4255941130168254789}
+  - component: {fileID: 813629156905438066}
   m_Layer: 0
   m_Name: wall4_2
   m_TagString: Untagged
@@ -95,5 +97,31 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 4, y: 4, z: 0.20000076}
-  m_Center: {x: 0, y: 2, z: 0}
+  m_Size: {x: 4, y: 1.0045362, z: 0.20000076}
+  m_Center: {x: 0, y: 3.497732, z: 0}
+--- !u!65 &4255941130168254789
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185688}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.2190614, y: 2.9999146, z: 0.20000076}
+  m_Center: {x: -1.3904693, y: 1.4999573, z: 0}
+--- !u!65 &813629156905438066
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185688}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.2102888, y: 2.999915, z: 0.20000076}
+  m_Center: {x: 1.3948556, y: 1.4999574, z: 0}

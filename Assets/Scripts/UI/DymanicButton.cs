@@ -8,6 +8,7 @@ public class DymanicButton : MonoBehaviour
     [SerializeField] private Button _button;
     private bool _showed;
 
+
     public void ShowedButton()
     {
         _showed = true;
@@ -26,6 +27,7 @@ public class DymanicButton : MonoBehaviour
 
     private void LateUpdate()
     {
-        _button.gameObject.transform.LookAt(new Vector3(transform.position.x, Camera.main.transform.position.y, Camera.main.transform.position.z));
+        if(Camera.main != null)
+        _button.gameObject.transform.LookAt(new Vector3(Camera.main.transform.position.x, Camera.main.transform.position.y, Camera.main.transform.position.z));
     }
 }

@@ -21,6 +21,7 @@ public class MoveState : State
     protected override void AfterStopCoroutine()
     {
         Animator.speed = 0;
+        if(Agent!=null)
         Agent.isStopped = true;
     }
 }

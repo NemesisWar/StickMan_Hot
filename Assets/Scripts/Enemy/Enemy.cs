@@ -41,6 +41,7 @@ public class Enemy : MonoBehaviour
         {
             Item item = Instantiate(_dropedWeapon,transform.position+Vector3.up,Quaternion.identity);
             item.Init(_timeShift);
+            _dropedWeapon = null;
         }
         Die?.Invoke(this);
         ParticleSystem par = Instantiate(_particleDie, transform.position, Quaternion.identity, null);

@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2030105573429634308}
   - component: {fileID: 2030105573429634309}
+  - component: {fileID: 3775071683701039924}
   m_Layer: 0
   m_Name: LevelChander
   m_TagString: Untagged
@@ -45,3 +46,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _currentLevel: 0
+  _progress: {fileID: 3775071683701039924}
+--- !u!114 &3775071683701039924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030105573429634310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b435d7d1de913104690fe9b69f5e959e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sceneChanger: {fileID: 2030105573429634309}
+  ProgressInfo:
+    Level: 0

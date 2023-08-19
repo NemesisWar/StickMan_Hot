@@ -93,13 +93,13 @@ public class WeaponControl : MonoBehaviour
 
     private IEnumerator MoveItem(Weapon weapon, Item item)
     {
-        _animator.SetInteger("Weapon", GetWeaponIndex(weapon));
         item.gameObject.transform.DOMove(weapon.gameObject.transform.position, 0.5f);
         item.gameObject.transform.DORotate(weapon.gameObject.transform.position, 0.7f);
         while (Vector3.Distance(weapon.transform.position, item.transform.position)>=0.4f)
         {
             yield return new WaitForEndOfFrame();
         }
+        _animator.SetInteger("Weapon", GetWeaponIndex(weapon));
         ItemTaked(weapon,item);
     }
 

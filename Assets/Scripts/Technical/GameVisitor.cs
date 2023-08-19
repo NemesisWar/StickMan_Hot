@@ -13,6 +13,7 @@ public class GameVisitor : MonoBehaviour
 
     private void OnEnable()
     {
+        Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
         _player.Die += OnPlayerDie;
     }
@@ -37,6 +38,7 @@ public class GameVisitor : MonoBehaviour
         if(_enemyCount == 0)
         {
             PlayerWin?.Invoke(true);
+            Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
         }
     } 
@@ -44,6 +46,7 @@ public class GameVisitor : MonoBehaviour
     private void OnPlayerDie()
     {
         PlayerWin?.Invoke(false);
+        Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
     }
 }

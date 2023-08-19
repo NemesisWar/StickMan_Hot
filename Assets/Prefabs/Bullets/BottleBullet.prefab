@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4497089323622732646}
   - component: {fileID: 7965030401948644529}
   - component: {fileID: 6350043305292635965}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: Bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 6901549408951025554}
   - component: {fileID: 1019862594138962289}
   - component: {fileID: 6713089443012649695}
-  m_Layer: 0
+  m_Layer: 17
   m_Name: BottleBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}

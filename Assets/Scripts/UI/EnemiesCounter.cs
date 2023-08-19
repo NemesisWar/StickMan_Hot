@@ -25,7 +25,6 @@ public class EnemiesCounter : MonoBehaviour
 
     private void DrawCount(int count)
     {
-        Debug.Log(count);
         _text.text = count.ToString();
     }
 }
